@@ -1,3 +1,3 @@
 package PACKAGE_NAME;public class Hello {
 }
-Hiiiiiii
+System.out.println( "HELLO33333");
